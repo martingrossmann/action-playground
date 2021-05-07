@@ -1,1 +1,7 @@
 /.idea/
+/gradlew
+/gradlew.bat
+/build/
+/.gradle/
+/test-report/
+/gradle/wrapper/
