@@ -19,8 +19,8 @@ jobs:
       - name: Build Changelog
         id: github_release
         uses: scottbrenner/generate-changelog-action@master
-        with:
-          package-dir: '.github/package.json'
+#        with:
+#          package-dir: '.github/package.json'
 
 #      - name: Build Changelog
 #        id: github_release
